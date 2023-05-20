@@ -306,7 +306,7 @@ e. Niguna de las anteriores.
 35. La denominación "Steady-State" en términos de un Algoritmo Genético es
 
 a. El mecanismo mediante el cual se mantiene a los mejores individuos en una población.
-b. Un tipo de gestión de la población de individuos. En este tipo también hau qie especificar el tipo de sustitución de individuos.
+**b. Un tipo de gestión de la población de individuos. En este tipo también hay que especificar el tipo de sustitución de individuos.**
 c. Una forma de crear la piblación de descendientes antes de eliminar la ponlación de los padres y pasar a la siguiente generación.
 d. Una forma de combinar los Algoritmos Genéticos con técnicas de optimización local.
 e. No existe esta palabra en estos sistemas.
@@ -321,7 +321,7 @@ e. No se permite la generación automática de programas como mecanismo de soluc
 
 37. El "hill climbing" con respecto a las técnicas de Computación Evolutiva
 
-a. Mejora los individuos para acelerar que se encuentre un óptimo local.
+**a. Mejora los individuos para acelerar que se encuentre un óptimo local.**
 b. Es una técnica para mejorar la generación de la población inicial.
 c. Se aplica a un solo individuo de cada generación.
 d. No se puede aplicar si se está usando elitismo.

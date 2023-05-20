@@ -275,15 +275,15 @@ e. En un esquema steady-state, decir que individuos deben de desecharse para hac
 a. Las soluciones deben de ser codificadas en forma de árbol.
 b. Las poblaciones grandes favorecen una evolución más rápida.
 c. El esquema de remplazo generacional utiliza menos memoria.
-d. Las funciones de ajuste deben de poder evaluarse en cada individuo de la población.
+**d. Las funciones de ajuste deben de poder evaluarse en cada individuo de la población.** (Función de ajuste = fitness)
 e. El criterio de parada debe ser único.
 
 32. "Elitismo" en Algoritmos genéticos
 
 a. No existe este concepto.
 b. Sólo es aplicable a la Programación Genética.
-c. Es la estrategia de mantener los mejores individuos en la población.
-**d. Se encarga de busca los mejores individuos y con ellos generar una nueva población.**
+**c. Es la estrategia de mantener los mejores individuos en la población.**
+d. Se encarga de busca los mejores individuos y con ellos generar una nueva población.
 e. La nueva población es generada a partir exclusivamente del mejor individuo.
 
 33. En Algoritmos Genéticos existen las técnicas de selección denominadas:

@@ -1,7 +1,7 @@
 
 ## Subsimbólica
 
-### Examen 2022
+### Examen 2022
 
 1. Al recibir las entradas de una neurona artificial, estas se combinan en primer lugar mediante una:
 

@@ -265,10 +265,10 @@ e. Selección.
 30.  El objetivo del operador de mutación es...
 
 a. Reducir la diversidad en la población.
-b. Explotar el espacio de búsqueda.
+**b. Explotar el espacio de búsqueda.**
 c. Explotar la información que está en la población.
 d. Seleccionar aquellos individuos que son mejores en función de su función de ajuste.
-**e. En un esquema steady-state, decir que individuos deben de desecharse para hacer sitio a los nuevos.**
+e. En un esquema steady-state, decir que individuos deben de desecharse para hacer sitio a los nuevos.
 
 31. ¿Cual de las siguientes afirmaciones es cierta en relación a los algoritmos genéticos?
 

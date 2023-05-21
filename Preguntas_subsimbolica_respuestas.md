@@ -1,7 +1,7 @@
 
 ## Subsimbólica
 
-### Examen 2022
+### Examen 2022
 
 1. Al recibir las entradas de una neurona artificial, estas se combinan en primer lugar mediante una:
 
@@ -265,25 +265,25 @@ e. Selección.
 30.  El objetivo del operador de mutación es...
 
 a. Reducir la diversidad en la población.
-b. Explotar el espacio de búsqueda.
+**b. Explotar el espacio de búsqueda.**
 c. Explotar la información que está en la población.
 d. Seleccionar aquellos individuos que son mejores en función de su función de ajuste.
-**e. En un esquema steady-state, decir que individuos deben de desecharse para hacer sitio a los nuevos.**
+e. En un esquema steady-state, decir que individuos deben de desecharse para hacer sitio a los nuevos.
 
 31. ¿Cual de las siguientes afirmaciones es cierta en relación a los algoritmos genéticos?
 
 a. Las soluciones deben de ser codificadas en forma de árbol.
 b. Las poblaciones grandes favorecen una evolución más rápida.
 c. El esquema de remplazo generacional utiliza menos memoria.
-d. Las funciones de ajuste deben de poder evaluarse en cada individuo de la población.
+**d. Las funciones de ajuste deben de poder evaluarse en cada individuo de la población.** (Función de ajuste = fitness)
 e. El criterio de parada debe ser único.
 
 32. "Elitismo" en Algoritmos genéticos
 
 a. No existe este concepto.
 b. Sólo es aplicable a la Programación Genética.
-c. Es la estrategia de mantener los mejores individuos en la población.
-**d. Se encarga de busca los mejores individuos y con ellos generar una nueva población.**
+**c. Es la estrategia de mantener los mejores individuos en la población.**
+d. Se encarga de busca los mejores individuos y con ellos generar una nueva población.
 e. La nueva población es generada a partir exclusivamente del mejor individuo.
 
 33. En Algoritmos Genéticos existen las técnicas de selección denominadas:
@@ -306,7 +306,7 @@ e. Niguna de las anteriores.
 35. La denominación "Steady-State" en términos de un Algoritmo Genético es
 
 a. El mecanismo mediante el cual se mantiene a los mejores individuos en una población.
-b. Un tipo de gestión de la población de individuos. En este tipo también hau qie especificar el tipo de sustitución de individuos.
+**b. Un tipo de gestión de la población de individuos. En este tipo también hay que especificar el tipo de sustitución de individuos.**
 c. Una forma de crear la piblación de descendientes antes de eliminar la ponlación de los padres y pasar a la siguiente generación.
 d. Una forma de combinar los Algoritmos Genéticos con técnicas de optimización local.
 e. No existe esta palabra en estos sistemas.
@@ -321,7 +321,7 @@ e. No se permite la generación automática de programas como mecanismo de soluc
 
 37. El "hill climbing" con respecto a las técnicas de Computación Evolutiva
 
-a. Mejora los individuos para acelerar que se encuentre un óptimo local.
+**a. Mejora los individuos para acelerar que se encuentre un óptimo local.**
 b. Es una técnica para mejorar la generación de la población inicial.
 c. Se aplica a un solo individuo de cada generación.
 d. No se puede aplicar si se está usando elitismo.

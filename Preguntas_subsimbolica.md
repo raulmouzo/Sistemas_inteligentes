@@ -408,7 +408,7 @@
 
     a. El mecanismo mediante el cual se mantiene a los mejores individuos en una población.
 
-    b. Un tipo de gestión de la población de individuos. En este tipo también hau qie especificar el tipo de sustitución de individuos.
+    b. Un tipo de gestión de la población de individuos. En este tipo también hay que especificar el tipo de sustitución de individuos.
 
     c. Una forma de crear la piblación de descendientes antes de eliminar la ponlación de los padres y pasar a la siguiente generación.
 
@@ -418,12 +418,12 @@
 
 36. En Programación Genética, 
 
-    a. No se puede aplicar la operación genética de cruce sobre los individuos de la polbalción.
+    a. No se puede aplicar la operación genética de cruce sobre los individuos de la polblación.
 
     b. La codificación del problema nunca se puede realizar en términos similares a la programación, no se puede representar individuo como un conjutno de instrucciones 
     generadas en un lenguaje de programación.
 
-    c. No se puede aplicar la estrategia elitista igual que en los Algoritmos Genéticos, hay que adaptarla a eta nueva técnica.
+    c. No se puede aplicar la estrategia elitista igual que en los Algoritmos Genéticos, hay que adaptarla a esta nueva técnica.
 
     d. El algoritmo de evolución de la población de individuos es igual al de los Algoritmos Genéticos.
 
@@ -439,11 +439,11 @@
 
     d. No se puede aplicar si se está usando elitismo.
 
-    e. Es uan técnica de cruce que funciona mejor que el de dos puntos.
+    e. Es una técnica de cruce que funciona mejor que el de dos puntos.
 
 38. ¿Cuál de las siguiente afirmaciones es cierta a cerca de la función de fitness?
 
-    a. La programación genética no utiliza este elemento que está solo presente en los Algoritmos Genéticos-
+    a. La programación genética no utiliza este elemento que está solo presente en los Algoritmos Genéticos
 
     b. Se evalúa solo sobre el mejor individuo de la población.
 
